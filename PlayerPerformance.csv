@@ -1,123 +1,50 @@
 PlayerName,Date,MatchType(OneDay-T20-Test),OppositionTeam,TossWin,BowlingFirst,BattingFirst,hometeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MatchesPerformance,weather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
-Kamran Akmal,02-Apr-17,T20I, West Indies,Pakistan,TRUE,FALSE,West Indies,,,,Cloudy,Flat,,2,20
-Kamran Akmal,01-Apr-17,T20I, West Indies,Pakistan,TRUE,FALSE,West Indies,Bad,,,Clear,Flat,,2,48
-Kamran Akmal,30-Mar-17,T20I, West Indies,WestIndies,TRUE,FALSE,West Indies,Good,,,Cloudy,Flat,,1,0
-Kamran Akmal,26-Mar-17,T20I, West Indies,Pakistan,TRUE,FALSE,West Indies,Bad,Bad,,Cloudy,Flat,,1,22
-Kamran Akmal,01-Apr-14,T20I, West Indies,WestIndies,FALSE,TRUE,Bangladesh,Bad,Bad,,,,,2,0
-Kamran Akmal,30-Mar-14,T20I, Bangladesh,Pakistan,FALSE,TRUE,Bangladesh,Bad,Bad,,,,,2,9
-Kamran Akmal,23-Mar-14,T20I, Australia,Austrailia,TRUE,FALSE,Bangladesh,Good,Bad,Bad,,,Out,2,31
-Kamran Akmal,21-Mar-14,T20I, India,India,TRUE,FALSE,Bangladesh,Bad,Bad,Bad,,,Out,1,8
-Kamran Akmal,03-Mar-13,T20I, South Africa,Pakistan,FALSE,TRUE,South Africa,Bad,Bad,Bad,,,Out,7,1
-Kamran Akmal,28-Dec-12,T20I, India,Pakistan,TRUE,FALSE,India,Bad,Bad,Bad,,,out,6,5
-Kamran Akmal,25-Dec-12,T20I, India,Pakistan,TRUE,FALSE,India,Bad,Bad,Bad,,,Out,6,1
-Kamran Akmal,04-Oct-12,T20I, Sri Lanka,Sri Lanka,FALSE,TRUE,Sri Lanka,Bad,Bad,Bad,,,Out,4,1
-Kamran Akmal,02-Oct-12,T20I, Australia,Austrailia,TRUE,FALSE,Sri Lanka,Good,Bad,Bad,,,Out,4,32
-Kamran Akmal,30-Sep-12,T20I, India,Pakistan,FALSE,TRUE,Sri Lanka,Bad,Bad,Bad,,,Out,5,5
-Kamran Akmal,28-Sep-12,T20I, South Africa,South Africa,FALSE,TRUE,Sri Lanka,Bad,Bad,Bad,,,Out,4,1
-Kamran Akmal,25-Sep-12,T20I, Bangladesh,Bangladesh,FALSE,TRUE,Sri Lanka,Bad,Bad,Bad,,,Out,4,22
-Kamran Akmal,23-Sep-12,T20I, New Zealand,Pakistan,FALSE,TRUE,Sri Lanka,Bad,Bad,Bad,,,Out,4,3
-Kamran Akmal,10-Sep-12,T20I, Australia,Pakistan,TRUE,FALSE,Pakistan,Bad,Bad,Bad,,,Out,5,0
-Kamran Akmal,07-Sep-12,T20I, Australia,Pakistan,FALSE,TRUE,Pakistan,Good,Bad,Bad,,,Out,4,43
-Kamran Akmal,05-Sep-12,T20I, Australia,Pakistan,TRUE,FALSE,Pakistan,Good,Bad,Bad,,,Out,4,31
-Kamran Akmal,07-Sep-10,T20I, England,Pakistan,FALSE,TRUE,England,Good,Bad,Bad,,,Out,1,11
-Kamran Akmal,05-Sep-10,T20I, England,England,TRUE,FALSE,England,Bad,Bad,Bad,,,Out,1,6
-Kamran Akmal,06-Jul-10,T20I, Australia,Pakistan,FALSE,TRUE,England,Good,Bad,Bad,,,Out,3,33
-Kamran Akmal,05-Jul-10,T20I, Australia,Pakistan,FALSE,TRUE,England,Bad,Bad,Bad,,,In,3,23
-Kamran Akmal,14-May-10,T20I, Australia,Pakistan,TRUE,FALSE,West Indies,Good,Bad,Bad,,,In,1,50
-Kamran Akmal,10-May-10,T20I, South Africa,Pakistan,FALSE,TRUE,West Indies,Good,Good,Bad,,,In,1,37
-Kamran Akmal,08-May-10,T20I, New Zealand,Pakistan,TRUE,FALSE,West Indies,Bad,Good,Bad,,,In,1,5
-Kamran Akmal,06-May-10,T20I, England,England,TRUE,FALSE,West Indies,Bad,Good,Bad,,,In,1,15
-Kamran Akmal,02-May-10,T20I, Australia,Austrailia,FALSE,TRUE,West Indies,Bad,Bad,Bad,,,In,1,0
-Kamran Akmal,01-May-10,T20I, Bangladesh,Pakistan,FALSE,TRUE,West Indies,Good,Bad,Bad,,,In,1,73
-Kamran Akmal,05-Feb-10,T20I, Australia,Austrailia,FALSE,TRUE,Australia,Good,Bad,Good,,,In,3,64
-Kamran Akmal,13-Nov-09,T20I, New Zealand,Pakistan,FALSE,TRUE,Pakistan,Bad,Good,Good,,,In,2,26
-Kamran Akmal,12-Nov-09,T20I, New Zealand,New Zealand,TRUE,FALSE,Pakistan,bad,Good,Good,,,In,2,13
-Kamran Akmal,12-Aug-09,T20I, Sri Lanka,Pakistan,FALSE,TRUE,Sri Lanka,Bad,Good,Good,,,In,1,0
-Kamran Akmal,21-Jun-09,T20I, Sri Lanka,Sri Lanka,FALSE,TRUE,England,Good,Bad,Good,,,In,1,37
-Kamran Akmal,18-Jun-09,T20I, South Africa,Pakistan,FALSE,TRUE,England,Bad,Bad,Good,,,In,1,23
-Kamran Akmal,15-Jun-09,T20I, Ireland,Pakistan,FALSE,TRUE,England,Good,Bad,Bad,,,In,1,57
-Kamran Akmal,13-Jun-09,T20I, New Zealand,New Zealand,FALSE,TRUE,England,Bad,Good,Bad,,,In,1,19
-Kamran Akmal,12-Jun-09,T20I, Sri Lanka,Sri Lanka,FALSE,TRUE,England,Bad,Good,Bad,,,In,2,5
-Kamran Akmal,09-Jun-09,T20I, Netherlands,Pakistan,FALSE,TRUE,England,Good,Bad,Bad,,,In,1,41
-Kamran Akmal,07-Jun-09,T20I, England,Pakistan,TRUE,FALSE,England,Bad,Bad,Good,,,In,3,6
-Kamran Akmal,07-May-09,T20I, Australia,Pakistan,TRUE,FALSE,Pakistan,Good,Bad,Bad,,,In,3,59
-Kamran Akmal,13-Oct-08,T20I, Sri Lanka,Sri Lanka,TRUE,FALSE,Canada,Bad,Good,Good,,,In,8,12
-Kamran Akmal,12-Oct-08,T20I, Zimbabwe,Zimbabwe,FALSE,TRUE,Canada,Bad,Bad,Bad,,,In,,0
-Kamran Akmal,11-Oct-08,T20I, Sri Lanka,Pakistan,TRUE,FALSE,Canada,Bad,Bad,Bad,,,In,7,11
-Kamran Akmal,10-Oct-08,T20I, Canada,Pakistan,FALSE,TRUE,Canada,Bad,Bad,Bad,,,In,7,2
-Kamran Akmal,20-Apr-08,T20I, Bangladesh,Pakistan,FALSE,TRUE,Pakistan,Bad,Bad,Bad,,,Out,2,0
-Kamran Akmal,24-Sep-07,T20I, India,India,FALSE,TRUE,South Africa,Bad,Bad,Bad,,,Out,3,0
-Kamran Akmal,22-Sep-07,T20I, New Zealand,New Zealand,FALSE,TRUE,South Africa,Bad,Bad,Bad,,,Out,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
+Kamran Akmal,02-Apr-17,T20I,Â West Indies,Pakistan,TRUE,FALSE,West Indies,,,,Cloudy,Flat,,2,20
+Kamran Akmal,01-Apr-17,T20I,Â West Indies,Pakistan,TRUE,FALSE,West Indies,Bad,,,Clear,Flat,,2,48
+Kamran Akmal,30-Mar-17,T20I,Â West Indies,WestIndies,TRUE,FALSE,West Indies,Good,,,Cloudy,Flat,,1,0
+Kamran Akmal,26-Mar-17,T20I,Â West Indies,Pakistan,TRUE,FALSE,West Indies,Bad,Bad,,Cloudy,Flat,,1,22
+Kamran Akmal,01-Apr-14,T20I,Â West Indies,WestIndies,FALSE,TRUE,Bangladesh,Bad,Bad,,,,,2,0
+Kamran Akmal,30-Mar-14,T20I,Â Bangladesh,Pakistan,FALSE,TRUE,Bangladesh,Bad,Bad,,,,,2,9
+Kamran Akmal,23-Mar-14,T20I,Â Australia,Austrailia,TRUE,FALSE,Bangladesh,Good,Bad,Bad,,,Out,2,31
+Kamran Akmal,21-Mar-14,T20I,Â India,India,TRUE,FALSE,Bangladesh,Bad,Bad,Bad,,,Out,1,8
+Kamran Akmal,03-Mar-13,T20I,Â South Africa,Pakistan,FALSE,TRUE,South Africa,Bad,Bad,Bad,,,Out,7,1
+Kamran Akmal,28-Dec-12,T20I,Â India,Pakistan,TRUE,FALSE,India,Bad,Bad,Bad,,,out,6,5
+Kamran Akmal,25-Dec-12,T20I,Â India,Pakistan,TRUE,FALSE,India,Bad,Bad,Bad,,,Out,6,1
+Kamran Akmal,04-Oct-12,T20I,Â Sri Lanka,Sri Lanka,FALSE,TRUE,Sri Lanka,Bad,Bad,Bad,,,Out,4,1
+Kamran Akmal,02-Oct-12,T20I,Â Australia,Austrailia,TRUE,FALSE,Sri Lanka,Good,Bad,Bad,,,Out,4,32
+Kamran Akmal,30-Sep-12,T20I,Â India,Pakistan,FALSE,TRUE,Sri Lanka,Bad,Bad,Bad,,,Out,5,5
+Kamran Akmal,28-Sep-12,T20I,Â South Africa,South Africa,FALSE,TRUE,Sri Lanka,Bad,Bad,Bad,,,Out,4,1
+Kamran Akmal,25-Sep-12,T20I,Â Bangladesh,Bangladesh,FALSE,TRUE,Sri Lanka,Bad,Bad,Bad,,,Out,4,22
+Kamran Akmal,23-Sep-12,T20I,Â New Zealand,Pakistan,FALSE,TRUE,Sri Lanka,Bad,Bad,Bad,,,Out,4,3
+Kamran Akmal,10-Sep-12,T20I,Â Australia,Pakistan,TRUE,FALSE,Pakistan,Bad,Bad,Bad,,,Out,5,0
+Kamran Akmal,07-Sep-12,T20I,Â Australia,Pakistan,FALSE,TRUE,Pakistan,Good,Bad,Bad,,,Out,4,43
+Kamran Akmal,05-Sep-12,T20I,Â Australia,Pakistan,TRUE,FALSE,Pakistan,Good,Bad,Bad,,,Out,4,31
+Kamran Akmal,07-Sep-10,T20I,Â England,Pakistan,FALSE,TRUE,England,Good,Bad,Bad,,,Out,1,11
+Kamran Akmal,05-Sep-10,T20I,Â England,England,TRUE,FALSE,England,Bad,Bad,Bad,,,Out,1,6
+Kamran Akmal,06-Jul-10,T20I,Â Australia,Pakistan,FALSE,TRUE,England,Good,Bad,Bad,,,Out,3,33
+Kamran Akmal,05-Jul-10,T20I,Â Australia,Pakistan,FALSE,TRUE,England,Bad,Bad,Bad,,,In,3,23
+Kamran Akmal,14-May-10,T20I,Â Australia,Pakistan,TRUE,FALSE,West Indies,Good,Bad,Bad,,,In,1,50
+Kamran Akmal,10-May-10,T20I,Â South Africa,Pakistan,FALSE,TRUE,West Indies,Good,Good,Bad,,,In,1,37
+Kamran Akmal,08-May-10,T20I,Â New Zealand,Pakistan,TRUE,FALSE,West Indies,Bad,Good,Bad,,,In,1,5
+Kamran Akmal,06-May-10,T20I,Â England,England,TRUE,FALSE,West Indies,Bad,Good,Bad,,,In,1,15
+Kamran Akmal,02-May-10,T20I,Â Australia,Austrailia,FALSE,TRUE,West Indies,Bad,Bad,Bad,,,In,1,0
+Kamran Akmal,01-May-10,T20I,Â Bangladesh,Pakistan,FALSE,TRUE,West Indies,Good,Bad,Bad,,,In,1,73
+Kamran Akmal,05-Feb-10,T20I,Â Australia,Austrailia,FALSE,TRUE,Australia,Good,Bad,Good,,,In,3,64
+Kamran Akmal,13-Nov-09,T20I,Â New Zealand,Pakistan,FALSE,TRUE,Pakistan,Bad,Good,Good,,,In,2,26
+Kamran Akmal,12-Nov-09,T20I,Â New Zealand,New Zealand,TRUE,FALSE,Pakistan,bad,Good,Good,,,In,2,13
+Kamran Akmal,12-Aug-09,T20I,Â Sri Lanka,Pakistan,FALSE,TRUE,Sri Lanka,Bad,Good,Good,,,In,1,0
+Kamran Akmal,21-Jun-09,T20I,Â Sri Lanka,Sri Lanka,FALSE,TRUE,England,Good,Bad,Good,,,In,1,37
+Kamran Akmal,18-Jun-09,T20I,Â South Africa,Pakistan,FALSE,TRUE,England,Bad,Bad,Good,,,In,1,23
+Kamran Akmal,15-Jun-09,T20I,Â Ireland,Pakistan,FALSE,TRUE,England,Good,Bad,Bad,,,In,1,57
+Kamran Akmal,13-Jun-09,T20I,Â New Zealand,New Zealand,FALSE,TRUE,England,Bad,Good,Bad,,,In,1,19
+Kamran Akmal,12-Jun-09,T20I,Â Sri Lanka,Sri Lanka,FALSE,TRUE,England,Bad,Good,Bad,,,In,2,5
+Kamran Akmal,09-Jun-09,T20I,Â Netherlands,Pakistan,FALSE,TRUE,England,Good,Bad,Bad,,,In,1,41
+Kamran Akmal,07-Jun-09,T20I,Â England,Pakistan,TRUE,FALSE,England,Bad,Bad,Good,,,In,3,6
+Kamran Akmal,07-May-09,T20I,Â Australia,Pakistan,TRUE,FALSE,Pakistan,Good,Bad,Bad,,,In,3,59
+Kamran Akmal,13-Oct-08,T20I,Â Sri Lanka,Sri Lanka,TRUE,FALSE,Canada,Bad,Good,Good,,,In,8,12
+Kamran Akmal,12-Oct-08,T20I,Â Zimbabwe,Zimbabwe,FALSE,TRUE,Canada,Bad,Bad,Bad,,,In,,0
+Kamran Akmal,11-Oct-08,T20I,Â Sri Lanka,Pakistan,TRUE,FALSE,Canada,Bad,Bad,Bad,,,In,7,11
+Kamran Akmal,10-Oct-08,T20I,Â Canada,Pakistan,FALSE,TRUE,Canada,Bad,Bad,Bad,,,In,7,2
+Kamran Akmal,20-Apr-08,T20I,Â Bangladesh,Pakistan,FALSE,TRUE,Pakistan,Bad,Bad,Bad,,,Out,2,0
+Kamran Akmal,24-Sep-07,T20I,Â India,India,FALSE,TRUE,South Africa,Bad,Bad,Bad,,,Out,3,0
+Kamran Akmal,22-Sep-07,T20I,Â New Zealand,New Zealand,FALSE,TRUE,South Africa,Bad,Bad,Bad,,,Out,,
