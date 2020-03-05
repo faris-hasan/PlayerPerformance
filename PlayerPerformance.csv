@@ -1,6 +1,6 @@
 PlayerName,Date,MatchType(OneDay-T20-Test),OppositionTeam,TossWin,BowlingFirst,BattingFirst,hometeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MatchesPerformance,weather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
 Kamran Akmal,02-Apr-17,T20I, West Indies,Pakistan,TRUE,FALSE,West Indies,Good,Bad,Bad,Cloudy,Flat,Out,2,20
-Kamran Akmal,01-Apr-17,T20I,s,Pakistan,TRUE,FALSE,West Indies,Bad,Bad,Bad,Clear,Flat,Out,2,48
+Kamran Akmal,01-Apr-17,T20I,West Indies,Pakistan,TRUE,FALSE,West Indies,Bad,Bad,Bad,Clear,Flat,Out,2,48
 Kamran Akmal,30-Mar-17,T20I, West Indies,WestIndies,TRUE,FALSE,West Indies,Bad,Bad,Bad,Cloudy,Flat,Out,1,0
 Kamran Akmal,26-Mar-17,T20I, West Indies,Pakistan,TRUE,FALSE,West Indies,Bad,Bad,Bad,Cloudy,Flat,Out,1,22
 Kamran Akmal,01-Apr-14,T20I, West Indies,WestIndies,FALSE,TRUE,Bangladesh,Bad,Bad,Bad,,,Out,2,0
